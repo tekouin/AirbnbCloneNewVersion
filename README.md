@@ -3,7 +3,7 @@
 | Field | Value |
 | --- | --- |
 | Status | **public student hands-on** |
-| Org | `tekouin-wescale` |
+| Org | `tekouin` |
 | Docs | [`docs/STATUS.md`](docs/STATUS.md) |
 
 Campusna curriculum project: recreate parts of Airbnb (console + web/admin-oriented features).
